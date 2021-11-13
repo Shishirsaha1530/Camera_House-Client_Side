@@ -1,0 +1,26 @@
+/* about Page css Style */
+.main {
+    text-align: center;
+}
+
+.title {
+    display: inline-block;
+    padding-bottom: 15px;
+    position: relative;
+}
+
+.title::after {
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    border-bottom: 3px solid rgb(4, 128, 0);
+    right: 0;
+    margin: 0 auto;
+}
+
+.aboutText {
+    text-align: justify;
+}

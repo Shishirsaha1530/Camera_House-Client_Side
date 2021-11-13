@@ -1,0 +1,18 @@
+.dashboardUl{
+    text-align: left;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.dashboardUl li{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.linkText{
+    color: white;
+}
+
+.linkText:hover{
+    color: black;
+}

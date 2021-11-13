@@ -1,0 +1,8 @@
+#topBannerBg {
+    background-image: url("../../../../images/homeBg.jpg");
+    height: 600px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
